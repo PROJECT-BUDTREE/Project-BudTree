@@ -28,7 +28,7 @@ PHQ-9 자가 진단 결과를 기반으로 AI 친구 **"버디"** 와 대화를 
 | ------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
 | <img src="https://github.com/user-attachments/assets/edd91366-2a20-450c-8d32-93d5eb08963b" alt="" width="200" height="450"> | <img src="https://github.com/user-attachments/assets/1770915b-ea03-4c0e-b785-0f0f3799c498" alt="" width="200" height="450"> | <img src="https://github.com/user-attachments/assets/3123bccc-5ffe-4805-a9f1-81f2564221e8" alt="" width="200" height="450"> |
 
-| 하루 나무                                             | 일반 챗봇 (사진 수정 필요)                                              | 마이 페이지                               |             
+| 하루 나무(추가 예정)                                             | 일반 챗봇 (사진 수정 필요)                                              | 마이 페이지                               |             
 | ------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
 | <img src="" alt="" width="200" height="450"> | <img src="https://github.com/user-attachments/assets/5d07314a-477d-4973-a0d5-c5029abc41f5" alt="" width="200" height="450"> | <img src="https://github.com/user-attachments/assets/ce9ca6e0-5688-4c65-8467-4b3e67779539" alt="" width="200" height="450"> |
 
@@ -59,7 +59,7 @@ PHQ-9 자가 진단 결과를 기반으로 AI 친구 **"버디"** 와 대화를 
 | **IDE / Language** | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> |
 | **Deployment** | <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"> |
 | **Config** |   <img src="https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">   <img src="https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white"> |
-| **Layout** | <img src="https://img.shields.io/badge/tailwind_CSS-06B6D4?style=for-the-badge&logo=jsonwebtokens&logoColor=white"> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> |
+| **Layout** | <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white"> <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"> |
 
 <h3 align="center">[ BACKEND ]</h3>
 

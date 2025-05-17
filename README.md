@@ -28,9 +28,9 @@ PHQ-9 자가 진단 결과를 기반으로 AI 친구 **"버디"** 와 대화를 
 | ------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
 | <img src="https://github.com/user-attachments/assets/edd91366-2a20-450c-8d32-93d5eb08963b" alt="" width="200" height="450"> | <img src="https://github.com/user-attachments/assets/1770915b-ea03-4c0e-b785-0f0f3799c498" alt="" width="200" height="450"> | <img src="https://github.com/user-attachments/assets/3123bccc-5ffe-4805-a9f1-81f2564221e8" alt="" width="200" height="450"> |
 
-| 하루 나무(추가 예정)                                             | 일반 챗봇 (사진 수정 필요)                                              | 마이 페이지                               |             
+| 하루 나무                                             | 일반 챗봇 (사진 수정 필요)                                              | 마이 페이지                               |             
 | ------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
-| <img src="" alt="" width="200" height="450"> | <img src="https://github.com/user-attachments/assets/5d07314a-477d-4973-a0d5-c5029abc41f5" alt="" width="200" height="450"> | <img src="https://github.com/user-attachments/assets/ce9ca6e0-5688-4c65-8467-4b3e67779539" alt="" width="200" height="450"> |
+| <img src="https://github.com/user-attachments/assets/3e99768a-e039-4c5b-ab49-95fd918aa9ca" alt="" width="200" height="450"> | <img src="https://github.com/user-attachments/assets/5d07314a-477d-4973-a0d5-c5029abc41f5" alt="" width="200" height="450"> | <img src="https://github.com/user-attachments/assets/ce9ca6e0-5688-4c65-8467-4b3e67779539" alt="" width="200" height="450"> |
 
 | 자가진단                                              | 자가진단 기반 챗봇 (수정)                       | 일기 내역                                         |             
 | ------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
@@ -84,53 +84,141 @@ PHQ-9 자가 진단 결과를 기반으로 AI 친구 **"버디"** 와 대화를 
 
 ## <span id="8">8. 상세 담당 업무</span>
 
-### 1) 유병훈
+### 👤 유병훈 – PM / BACKEND / FRONTEND / DESIGN
 
-- **PM**
+<details> <summary><strong>PM</strong></summary>
+ 
+    - 프로젝트 기획안 작성
+    
+    - 프로젝트 제안서 작성
+    
+    - PPT 제작 및 발표
+    
+    - 중간 및 최종 보고서 작성
+    
+    - 특정 날에 진행된 정기 회의록 작성 및 배포
+        - 원할한 소통을 위해 공지 및 안건 작성
 
-  - 
+    - 프로젝트 Github/README.md 작성 
+        
+    - 모든 파트(DESIGN, BACKEND, FRONTEND) 진행 상황 검토 및 작업물에 대한 피드백 진행
 
-- **BACKEND**
+</details> <details> <summary><strong>BACKEND</strong></summary>
 
-  - 
-
-- **FRONTEND**
-
-  -
-- **DESIGN**
+    - 사용자(Member), 채팅방(Chatroom), 메시지(Message) ERD 기반 엔티티 작성
+        - API 명세서를 기반으로 RESTful API 로직 설계 및 구현
   
-  - UI/UX 디자인 협업
+    - JWT 기반 Spring Security Custom Filter 구현으로 사용자 인증/인가 구현
+        - Redis를 이용해 Access Token / Refresh Token TTL 처리
+        - Redis를 이용해 사용자가 서비스 종료 시 Acces Token Black List 처리
+          
+    - Spring AI를 활용하여 OpenAI Fine-tuning 모델 호출 및 응답 로직 구현
+        - 우울증 관련 대화 주제로 Multi-turn 데이터 셋 작성 및 Fine-tuning 모델 생성
+          
+    - 일관된 오류 응답을 위한 전역 예외 처리 핸들러 설계 및 구현
+      
+    - Github Actions을 통한 CI/CD 자동화 파이프라인 구축
+        - Git 브랜치 전략 중 Git Flow(master, develop, feat/**) 를 적용
+          
+    - AWS EC2 서비스 배포 및 운영
+        - Docker-compose을 통해 Spring Boot, MySQL, Redis 컨테이너화 진행
+        - Nginx를 통해 API 서버 리버스 프록시 구축 및 설정
+        - Certbot을 통해 SSL 인증서를 발급하고 안전한 HTTPS 통신 환경 제공
 
-### 2) 최지훈
+</details> <details> <summary><strong>FRONTEND</strong></summary>
 
-- **BACKEND**
+    - 자가 진단 응답 저장,  자가진단 기반 챗봇, 일반 챗봇, 로그인 API 통신 기능 구현
+    
+    - Axios 인터셉터를 통한 인증(Access Token) 기반 통신 로직 일관화 (reissue.js)
+        - Access Token 만료 시 토큰 재발급 API 호출 후 기존 API 호출 재시도 로직 구현
+        
+    - Github Actions을 통한 CI/CD 자동화 파이프라인 구축
+        - Git 브랜치 전략 중 Git Flow(master, develop, feature/**) 를 적용
+        
+    - AWS EC2 서비스 배포 및 운영
+        - Docker을 통해 Node.js 컨테이너화 진행
+        - Nginx를 통해 프론트엔 서버 리버스 프록시 구축 및 설정
+        - Certbot을 통해 SSL 인증서를 발급하고 안전한 HTTPS 통신 환경 제공
+       
+</details> <details> <summary><strong>DESIGN</strong></summary>
+ 
+    - UI/UX 디자인 협업 및 총괄
+    
+</details>
 
-  - 
+### 👤 최지훈 – BACKEND / FRONTEND / DESIGN
 
-- **FRONTEND**
+<details> <summary><strong>BACKEND</strong></summary>
+ 
+    - 일기장(Post) ERD 기반 엔티티 작성
+        - 감정, 내용, 작성일자 등을 포함한 일기장 도메인 설계
+        
+    - 일기장 생성, 수정, 삭제 기능 구현
+        - JWT 사용자 인증 기반으로 일기장 데이터를 생성, 수정,삭제하는 로직 구현
+        
+    - 일기장 전체 조회 및 특정 일기장 조회 기능 구현
+        - 전체 조회
+            
+            → 연도/월 필터링을 통한 조건부 조회 기능 구현
+            
+        - 특정 일기장 조회
+            
+            → postID 기준으로 사용자가 작성한 특정 일기 데이터를 조회하는 기능 구현
+            
+    - 사용자가 실시한 자가진단의 검사 결과를 저장하는 API 구현
+        - 사용자가 입력한 자가진단 항목을 바탕으로 총점을 계산,  총점에 따라 등급을 분류하여 저장
+        
+    - 자가진단 결과 전체 조회 구현
+        - 연도/월 필터링을 통한 조건부 조회 기능 구현
+        
+</details> <details> <summary><strong>FRONTEND</strong></summary>
+ 
+    - 일기장 내역, 대화 내역, 자가진단 내역 UI 제작 및 API 통신
+        - 사용자의 데이터를 내역 페이지에 시각화 및 조건별 조회가 가능하도록 서버와의 통신 구현
+        
+    - 일기장 CRUD API 통신 구현
+        - 일기 생성, 수정,  삭제, 조회 기능 API 통신 구현
 
-  -
-- **DESIGN**
-  
-  - UI/UX 디자인 협업
+</details> <details> <summary><strong>DESIGN</strong></summary>
 
-### 3) 이채린
+    - UI/UX 디자인 협업
 
-- **FRONTEND**
+</details>
 
-  -
-- **DESIGN**
-  
-  - UI/UX 디자인 협업
+### 👤 이채린 – FRONTEND / DESIGN
 
-### 4) 권혜준
+<details> <summary><strong>FRONTEND</strong></summary>
+ 
+    - (작성 예정)
 
-- **FRONTEND**
+</details> <details> <summary><strong>DESIGN</strong></summary>
+ 
+    - UI/UX 디자인 협업
 
-  -
-- **DESIGN**
-  
-  - UI/UX 디자인 협업
+</details>
+
+### 👤 권혜준 – FRONTEND / DESIGN
+
+<details> <summary><strong>FRONTEND</strong></summary>
+ 
+    - 사용자 흐름(UI/UX): 로그인, 회원가입, 메인 페이지, 마이페이지 등의 UI 디자인 및 사용자 동선 설계
+    
+    - 회원가입
+        - 아이디 중복확인 기능 구현
+        - 비밀번호 보안 조건 적용 (길이, 특수문자 포함 등)
+        
+    - 마이페이지 기능 구현
+        - 로그아웃 및 회원탈퇴 시 모달 처리 및 로컬스토리지 초기화
+        - 비밀번호 변경 및 닉네임 변경 기능 구현 (API 연동)
+        
+    - 비밀번호 보안 강화
+        - 회원가입 및 비밀번호 변경 시 보안 기준(길이, 특수문자 포함 등) 적용
+        
+</details> <details> <summary><strong>DESIGN</strong></summary>
+ 
+    - UI/UX 디자인 협업
+
+</details>
 
 ## <span id="9">9. 시스템 아키텍처</span>
 ![image](https://github.com/user-attachments/assets/e17e728f-d3f8-474a-8de9-230aaaf9215f)

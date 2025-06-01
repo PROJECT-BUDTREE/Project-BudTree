@@ -18,7 +18,7 @@ PHQ-9 자가 진단 결과를 기반으로 AI 친구 **"버디"** 와 대화를 
 
 |<img src="https://avatars.githubusercontent.com/dbqudgns" width="200px;" alt=""/>|<img src="https://avatars.githubusercontent.com/ChousnCom" width="200px;" alt=""/>|<img src="https://avatars.githubusercontent.com/cxfls" width="200px;" alt=""/>|<img src="https://avatars.githubusercontent.com/hjStack" width="200px;" alt=""/>|
 | :--------------------------------------------------------------: | :--------------------------------------------------------------: | :--------------------------------------------------------------------------: | :-----------------------------------------------------------: |
-|           [팀장 : 유병훈](https://github.com/dbqudgns)           |           [팀원 : 최지훈](https://github.com/ChousnCom)           |                 [팀원 : 이채린](https://github.com/팀원3아이디)                 |         [팀원 : 권혜준](https://github.com/hjStack)          |
+|           [팀장 : 유병훈](https://github.com/dbqudgns)           |           [팀원 : 최지훈](https://github.com/ChousnCom)           |                 [팀원 : 이채린](https://github.com/cxfls)                 |         [팀원 : 권혜준](https://github.com/hjStack)          |
 |                            PM, BACKEND, FRONTEND, DESIGN                            |                            BACKEND, FRONTEND, DESIGN                            |                                  FRONTEND, DESIGN                                  |                          FRONTEND, DESIGN                       |
 
 </div>
@@ -28,13 +28,13 @@ PHQ-9 자가 진단 결과를 기반으로 AI 친구 **"버디"** 와 대화를 
 | ------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
 | <img src="https://github.com/user-attachments/assets/edd91366-2a20-450c-8d32-93d5eb08963b" alt="" width="200" height="450"> | <img src="https://github.com/user-attachments/assets/1770915b-ea03-4c0e-b785-0f0f3799c498" alt="" width="200" height="450"> | <img src="https://github.com/user-attachments/assets/3123bccc-5ffe-4805-a9f1-81f2564221e8" alt="" width="200" height="450"> |
 
-| 하루 나무                                             | 일반 챗봇 (사진 수정 필요)                                              | 마이 페이지                               |             
+| 하루 나무                                             | 일반 챗봇                                              | 마이 페이지                               |             
 | ------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
-| <img src="https://github.com/user-attachments/assets/3e99768a-e039-4c5b-ab49-95fd918aa9ca" alt="" width="200" height="450"> | <img src="https://github.com/user-attachments/assets/5d07314a-477d-4973-a0d5-c5029abc41f5" alt="" width="200" height="450"> | <img src="https://github.com/user-attachments/assets/ce9ca6e0-5688-4c65-8467-4b3e67779539" alt="" width="200" height="450"> |
+| <img src="https://github.com/user-attachments/assets/3e99768a-e039-4c5b-ab49-95fd918aa9ca" alt="" width="200" height="450"> | <img src="https://github.com/user-attachments/assets/8d43d8c7-73ab-4eb1-8f52-0256c7a9cdc6" alt="" width="200" height="450"> | <img src="https://github.com/user-attachments/assets/ce9ca6e0-5688-4c65-8467-4b3e67779539" alt="" width="200" height="450"> |
 
-| 자가진단                                              | 자가진단 기반 챗봇 (수정)                       | 일기 내역                                         |             
+| 자가진단                                              | 자가진단 기반 챗봇                             | 일기 내역                                         |             
 | ------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
-| <img src="https://github.com/user-attachments/assets/fcf85b5c-d25b-405c-89eb-ee1194f3a2d2" alt="" width="200" height="450"> | <img src="https://github.com/user-attachments/assets/5d07314a-477d-4973-a0d5-c5029abc41f5" alt="" width="200" height="450"> | <img src="https://github.com/user-attachments/assets/62dbd451-7ee1-4543-b74f-696fe52c7f11" alt="" width="200" height="450"> |
+| <img src="https://github.com/user-attachments/assets/fcf85b5c-d25b-405c-89eb-ee1194f3a2d2" alt="" width="200" height="450"> | <img src="https://github.com/user-attachments/assets/5b6c3a48-7975-4c88-a3e9-750ed627647c" alt="" width="200" height="450"> | <img src="https://github.com/user-attachments/assets/62dbd451-7ee1-4543-b74f-696fe52c7f11" alt="" width="200" height="450"> |
 
 ## <span id="6">6. 기능 소개</span>
  

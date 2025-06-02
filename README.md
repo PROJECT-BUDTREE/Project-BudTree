@@ -26,7 +26,7 @@ PHQ-9 자가 진단 결과를 기반으로 AI 친구 **"버디"** 와 대화를 
 ## <span id="5">5. 주요 화면 구성</span>
 | 시작 화면                                         | 로그인                                      | 메인 화면                                         |
 | ------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
-| <img src="https://github.com/user-attachments/assets/edd91366-2a20-450c-8d32-93d5eb08963b" alt="" width="200" height="450"> | <img src="https://github.com/user-attachments/assets/1770915b-ea03-4c0e-b785-0f0f3799c498" alt="" width="200" height="450"> | <img src="https://github.com/user-attachments/assets/3b3e10d6-e523-47f7-b3de-9bdb5f471ac3" alt="" width="200" height="450"> |
+| <img src="https://github.com/user-attachments/assets/edd91366-2a20-450c-8d32-93d5eb08963b" alt="" width="200" height="450"> | <img src="https://github.com/user-attachments/assets/1770915b-ea03-4c0e-b785-0f0f3799c498" alt="" width="200" height="450"> | <img src="https://github.com/user-attachments/assets/31710f53-2308-408a-be44-1bcabd7d6a56" alt="" width="200" height="450"> |
 
 | 하루 나무                                             | 일반 챗봇                                              | 마이 페이지                               |             
 | ------------------------------------------------- | ------------------------------------------------- | ------------------------------------------------- |
